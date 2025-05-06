@@ -76,10 +76,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="https://t.me/ll_DOREMON_ll",
+                text="❍𝐎ᴡɴᴇʀ ❍", url="https://t.me/l_HEART_BEAT_l",
             ),
             InlineKeyboardButton(
-                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/UFC_NETWORK",
+                text="❍𝐒ᴜᴘᴘᴏʀᴛ❍", url="https://t.me/ll_P_U_L_lI",
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -99,10 +99,10 @@ def stream_markup(_, videoid, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="https://t.me/ll_DOREMON_ll",
+                text="❍𝐎ᴡɴᴇʀ ❍", url="https://t.me/l_HEART_BEAT_l",
             ),
             InlineKeyboardButton(
-                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/UFC_NETWORK",
+                text="❍𝐒ᴜᴘᴘᴏʀᴛ❍", url="https://t.me/ll_P_U_L_lI",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
